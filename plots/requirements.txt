@@ -9,3 +9,4 @@ benepar
 spacy
 plotly
 seaborn
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
